@@ -1,1 +1,6 @@
-CLAUDE.md
+# dns-old
+
+**Org:** hanzoai  ·  **Path:** `/Users/a/work/hanzo/hanzoai/dns-old`
+**Origin:** git@github.com:hanzoai/dns-old.git
+
+`CLAUDE.md` is canonical; `LLM.md` symlinks to it. See sibling repos at `/Users/a/work/hanzo/hanzoai/LLM.md`.
